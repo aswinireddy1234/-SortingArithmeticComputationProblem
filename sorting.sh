@@ -49,5 +49,5 @@ do
     fi
 done
 
-echo "The Computation results sorted in descending order are: "
+echo "The Computation results sorted in ascending order are: "
 echo ${array[@]}
